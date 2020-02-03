@@ -1,12 +1,10 @@
 # proiect_final
 
-Nume proiect:Lanterna
+Nume proiect: Lanterna
 
 Autor: Dumitras Andrei
 
-Descriere: Aplicatie interactiva.
-
-Pe ce sistem de operare ruleaza: android
+Ruleaza pe: android
 
 Tehnologii folosite: Java script, Html5, css
 
